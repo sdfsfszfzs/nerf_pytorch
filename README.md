@@ -11,7 +11,7 @@ This project is a faithful PyTorch implementation of [NeRF](http://www.matthewta
 ## Installation
 
 ```
-git clone https://github.com/yenchenlin/nerf-pytorch.git
+git clone https://github.com:sdfsfszfzs/nerf_pytorch.git
 cd nerf-pytorch
 pip install -r requirements.txt
 ```
@@ -152,12 +152,12 @@ Kudos to the authors for their amazing results:
 
 However, if you find this implementation or pre-trained models helpful, please consider to cite:
 ```
-@misc{lin2020nerfpytorch,
+@misc{sdfsfszfzs
   title={NeRF-pytorch},
-  author={Yen-Chen, Lin},
+  author={YuhangZheng, Lin},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished={\url{https://github.com/yenchenlin/nerf-pytorch/}},
-  year={2020}
+  howpublished={\url{https://github.com/sdfsfszfzs/nerf_pytorch}},
+  year={2023}
 }
 ```
